@@ -1,0 +1,3 @@
+CraftJS: Javascript game library.
+JQueryJS: UI
+Rodney Thomas: Frontend Programming
